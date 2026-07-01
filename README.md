@@ -18,11 +18,10 @@ This repository showcases how I use AI not to replace QA judgment, but to amplif
 ## Table of Contents
 
 - [About This Repository](#about-this-repository)
-- [Test Cases](test-cases/login_test_cases.md)
-- [Playwright Scripts](playwright-scripts/login.spec.js)
-- [SQL Queries](sql-queries/data_validation.sql)
-- [Prompt Templates](prompts/prompt_examples.md)
-- [Defect Reports](defect-reports/sample_defect.md)
+- [Test Cases](login_test_cases.md)
+- [Playwright Scripts](login.spec.js)
+- [SQL Queries](data_validation.sql)
+- [Prompt Templates](prompt_examples.md)
 - [How I Use AI in My Workflow](#how-i-use-ai-in-my-workflow)
 - [How to Run the Playwright Scripts](#how-to-run-the-playwright-scripts)
 - [Tools Used](#tools-used)
