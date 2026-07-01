@@ -15,7 +15,7 @@
  *
  * Test IDs map to login_test_cases.md for full traceability.
  *
- * Prerequisites:
+ * Setup Notes:
  *   - Set BASE_URL, TEST_EMAIL, TEST_PASSWORD as environment variables
  *   - Test user must exist and not be locked before running
  *   - Run lockout tests in isolation as they affect account state
