@@ -1,1 +1,1 @@
-# ai-in-qa
+# AI-in-QA
