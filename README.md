@@ -18,7 +18,7 @@ This repository showcases how I use AI not to replace QA judgment, but to amplif
 ## Table of Contents
 
 - [About This Repository](#about-this-repository)
-- [Test Cases](login_test_cases.md)
+- [Test Cases](ai-in-qa/login_test_cases.md)
 - [Playwright Scripts](login.spec.js)
 - [SQL Queries](data_validation.sql)
 - [Prompt Templates](prompt_examples.md)
