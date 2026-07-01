@@ -9,7 +9,7 @@ A collection of reusable prompts I use in my daily QA workflow. Copy, paste, and
 ```
 Here is a feature requirement:
 
-[PASTE REQUIREMENT HERE]
+[REQUIREMENTS]
 
 Generate detailed test cases including:
 - Happy path scenarios
@@ -28,7 +28,7 @@ Format as a table with columns: Test Case ID, Description, Steps, Expected Resul
 I am using Playwright with JavaScript. 
 
 Write a test for the following scenario:
-[DESCRIBE THE SCENARIO]
+[SCENARIO]
 
 The app base URL is [YOUR URL].
 The selectors to use are:
@@ -46,11 +46,11 @@ Include proper assertions and use waitForLoadState where appropriate.
 ```
 My Playwright test is failing with this error:
 
-[PASTE ERROR MESSAGE]
+[eRROR MESSAGE]
 
 Here is my test code:
 
-[PASTE CODE]
+[CODE]
 
 What are the most likely causes and how do I fix each one?
 ```
@@ -66,7 +66,7 @@ Review this Playwright test and suggest improvements for:
 - Better assertion coverage
 - Maintainability
 
-[PASTE CODE]
+[CODE]
 ```
 
 ---
@@ -136,7 +136,7 @@ I should investigate during exploratory testing.
 ```
 Here is a list of defects found during this testing cycle:
 
-[PASTE DEFECT LIST]
+[DEFECT LIST]
 
 Summarize them by:
 - Severity breakdown (Critical / High / Medium / Low)
